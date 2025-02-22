@@ -12,3 +12,4 @@ resolve_s3 = true
 confirm_changeset = false
 disable_rollback = false
 use_json = true
+fail_on_empty_changeset = false
